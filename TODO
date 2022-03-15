@@ -1,0 +1,4 @@
+Check value in term(), expression() to ensure that it's not NULL
+PROBLEMS IN ERROR HANDLER
+DON'T ABORT WHEN AN ERROR OCCURED
+DON'T RETURN :=> SOME NUMBER IN SOME CASES
